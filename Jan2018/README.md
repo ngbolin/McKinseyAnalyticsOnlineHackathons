@@ -2,7 +2,7 @@ In Jan 2018, McKinsey Analytics hosted an Online Hackathon on AnalyticsVidhya.
 
 In this repository, you can find more about my submission e.g. the techniques I used for prediction, how I cleaned and processed the data and generated new features.
 
-Here are the details of the competion (you can find more about the competition [here](https://datahack.analyticsvidhya.com/contest/mckinsey-analytics-online-hackathon-ii/lb)):
+Here are the details of the competion (you can find more about the competition [here](https://datahack.analyticsvidhya.com/contest/mckinsey-analytics-online-hackathon-ii/)):
 
 **Problem Statement**
 
